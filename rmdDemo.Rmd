@@ -31,5 +31,5 @@ Here's an unordered list:
 - Third Element
 
 1. Who's on first?
-2. What's on Second?
-3. I dunno, third base.
+2. *What's on Second?*
+3. **I dunno, third base.**
